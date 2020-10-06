@@ -1,0 +1,1 @@
+// Reducer zwracający tablicę produktów
